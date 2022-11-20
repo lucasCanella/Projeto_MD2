@@ -1,7 +1,7 @@
 import datetime
 import os
 import csv
-import tabulate
+import tabulate # Abra o terminal e execute: pip install tabulate
 import pandas as pd
 
 def perguntar_genero():
